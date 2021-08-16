@@ -1,0 +1,14 @@
+{
+  "name": "wol-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flyd3v/wol-http",
+  "author": "flyd3v <flyd3v@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^10.1.0",
+    "cross-env": "^7.0.3",
+    "koa": "^2.13.1",
+    "wake_on_lan": "^1.0.0"
+  }
+}
